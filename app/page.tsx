@@ -70,7 +70,7 @@ export default function Home() {
           marginBottom: "30px",
         }}
       >
-        FindMe
+        carimaxwin
       </h1>
 
       <div
